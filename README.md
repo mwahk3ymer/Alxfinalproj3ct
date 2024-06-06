@@ -1,4 +1,4 @@
-####BETA-CENSUS
+## BETA-CENSUS
 
 Instructions to Install
 Start you Xampp and head to the admin interface
