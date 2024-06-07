@@ -1,6 +1,6 @@
-## BETA-CENSUS
+# BETA-CENSUS
 
-##Instructions to Install
+## Instructions to Install
 
 Start your Xampp and head to the admin interface
 Create a database called "picto_census"
@@ -13,6 +13,7 @@ Default Admin:
     username: admin
     password: 2024@Password
 
-You can create an enumerator to access enumerator. (NOTE: Default password will be 2024@Password)
+You can create an enumerator to access enumerator. 
+(NOTE: Default password will be 2024@Password)
 
 To access the enumerator module head back to login and login using enumerator username and password
