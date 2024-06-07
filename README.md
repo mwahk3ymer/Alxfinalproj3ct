@@ -1,7 +1,8 @@
 ## BETA-CENSUS
 
-Instructions to Install
-Start you Xampp and head to the admin interface
+##Instructions to Install
+
+Start your Xampp and head to the admin interface
 Create a database called "picto_census"
 Start a terminal in the folder where you have your project
 Run migrations: python manage.py migrate
